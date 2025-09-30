@@ -1,0 +1,5 @@
+:443
+
+tls {$ZEALOT_CERT_EMAIL}
+log
+reverse_proxy zealot

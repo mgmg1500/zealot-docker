@@ -1,0 +1,10 @@
+caddy/
+backups/
+out/
+certs/
+log/
+.env
+*.yml
+*.txt
+.DS_Store
+.specstory/
